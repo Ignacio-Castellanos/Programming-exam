@@ -1,0 +1,128 @@
+body{
+  margin-left:30px;
+}
+
+
+envio{
+  position:relative;
+  margin-left:100px;
+display: flex;
+}
+
+
+form{
+  display:;
+}
+
+
+#pass{display:inline-block;}
+input{
+  display:inline-block;
+  transition: 0.8s;
+box-shadow: 0 0 0.15px;
+  filter: grayscale(100%);
+border: 5px solid #CCC;
+position: relative;
+border-radius: 30px;
+hover-width: 300px;
+color: black;
+letter-spacing: 04px;
+text-shadow: #CCC 1px 0 10px;
+text-align:center;
+border:1px dotted #000;
+padding:8px;
+  margin:20px auto;
+border: 5px solid #CCC;
+background-size:500px;
+backdrop-filter:blur(5px);
+  
+}
+
+ 
+form label{
+  margin-left:;
+  
+}
+
+
+#emailform{
+  margin-left:px;
+}
+
+
+#nombreform{
+  margin-left:px;
+}
+
+
+h1{
+  text-align:center;
+text-shadow: #000 1px 0 10px;
+
+}
+
+p{display:inline-block;
+
+}
+
+
+img {
+width: 100%;
+height: auto;
+}
+
+
+body {background: url(https://img.freepik.com/free-vector/realistic-white-golden-geometric-background_79603-2032.jpg?w=740&t=st=1664544716~exp=1664545316~hmac=63b2a5474cc40aa990d4c56e8cd3d9cf10a7c0c104db869e37e99fe5f5904463) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+
+}
+
+.envio{color: black;}
+
+img {
+width: 80%;
+height: auto;
+border-radius:100px;
+
+}
+
+
+.clockdate-wrapper {
+    background-color: #333;
+    padding:25px;
+    max-width:350px;
+    width:100%;
+    text-align:center;
+    border-radius:80px;
+    margin:0 auto;
+    margin-top:15%;
+width: 80%;
+height: auto;
+}
+
+#clock{
+    background-color:#333;
+    font-family: sans-serif;
+    font-size:60px;
+    text-shadow:0px 0px 1px #fff;
+    color:#fff;
+}
+
+#clock span {
+    color:#888;
+    text-shadow:0px 0px 1px #333;
+    font-size:30px;
+    position:relative;
+    top:-27px;
+    left:-10px;
+}
+
+#date {
+    letter-spacing:10px;
+    font-size:14px;
+    font-family:arial,sans-serif;
+    color:#fff;
+}
